@@ -14,7 +14,7 @@ Exercises practice of js✨☕
 
 ### The project
 
-A simple page for coffee lovers of all kinds.
+Workshops to learn js.
 
 ### Links
 
@@ -28,7 +28,7 @@ A simple page for coffee lovers of all kinds.
 
 ### What I learned
 
-This is a project built as a basic html practice with css, in order to understand the use of display flex and grid. Sarifactory result.
+Learn to use js to be able to implement it in web pages, and this improve user interaction.
 
 ## Author 🐱‍👤
 
