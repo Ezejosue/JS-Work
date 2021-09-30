@@ -1,0 +1,61 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+h1 {
+  font-size: 4rem;
+}
+
+p {
+  font-size: 3rem;
+}
+
+header {
+  width: 1000px;
+  height: auto;
+  text-align: center;
+  margin: 0 auto;
+}
+
+section {
+  width: 1000px;
+  height: auto;
+  text-align: center;
+  margin: 0 auto;
+}
+
+form {
+  border: 1px solid;
+  border-radius: 10px;
+  width: 50%;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+}
+
+form h2 {
+  font-size: 2rem;
+}
+
+form label {
+  font-size: 2rem;
+}
+
+form input {
+  width: 200px;
+  height: 50px;
+  margin: 10px auto;
+  font-size: 2rem;
+}
+
+form button {
+  font-size: 2rem;
+  font-weight: bold;
+  width: 200px;
+  height: 50px;
+  margin: 0 auto;
+}
